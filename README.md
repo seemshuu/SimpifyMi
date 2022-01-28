@@ -1,5 +1,5 @@
 # SimpifyMi
-
+A MATLAB app featuring the visualization of Simpson's 1/3 Rule of Integration and Matrix Inversion
 # -App Install-
 Quickie method (.mlappinstall) *This needs MATLAB 2019 or higher
 This method is a fast way of parsing App designer 
