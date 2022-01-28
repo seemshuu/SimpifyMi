@@ -22,7 +22,7 @@ It is compiled as a MATLAB APP and runs in MATLAB
 
 # -app installed-
 
-# Normal Installation
+ Normal Installation
 Parses MATLAB code to an installer executable.
 *Requires MATLAB Runtime
 
